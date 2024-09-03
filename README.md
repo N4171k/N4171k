@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Amity University's 45 days of code](https://github.com/n4171k/ACC45DAYSOFCODE-2023/)
 
-- 🌱 I’m currently learning **C and problem solving**
+- 🌱 I’m currently learning **Python and Data Structures & Algorithms(C++)**
 
 - 👨‍💻 All of my projects are available at [https://www.naitiktiwari.in/projects](https://www.naitiktiwari.in/projects)
 

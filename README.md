@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Data Structures & Algorithms(C++)**
 
-- 👨‍💻 All of my projects are available at [https://www.naitiktiwari.in/projects](https://www.naitiktiwari.in/projects)
+- 👨‍💻 All of my projects are available at [https://www.naitiktiwari.social](https://www.naitiktiwari.social)
 
 - 📝 I regularly post on [https://www.linkedin.com/in/iamnaitik/](https://www.linkedin.com/in/iamnaitik/)
 

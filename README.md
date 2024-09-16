@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4171k&label=Profile%20views&color=0e75b6&style=plastic" alt="n4171k" /> </p>
 
-- 🔭 I’m currently working on [Amity University's 45 days of code](https://github.com/n4171k/ACC45DAYSOFCODE-2023/)
+- 🔭 I’m currently working on Smart India Hackathon
 
 - 🌱 I’m currently learning **Python and Data Structures & Algorithms(C++)**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly post on [https://www.linkedin.com/in/iamnaitik/](https://www.linkedin.com/in/iamnaitik/)
 
-- 💬 Ask me about **Front End and Go**
+- 💬 Ask me about **Front End and C++**
 
 - 📫 How to reach me **tiwarinaitik9@gmail.com**
 

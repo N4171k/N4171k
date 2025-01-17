@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java & Cloud Services**
 
-- 👨‍💻 All of my projects are available at [https://www.naitiktiwari.social](https://www.naitiktiwari.in)
+- 👨‍💻 All of my projects are available at [https://www.naitiktiwari.in](https://www.naitiktiwari.in)
 
 - 📝 I regularly post on [https://www.linkedin.com/in/iamnaitik/](https://www.linkedin.com/in/iamnaitik/)
 

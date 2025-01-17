@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4171k&label=Profile%20views&color=0e75b6&style=plastic" alt="n4171k" /> </p>
 
-- 🔭 I’m currently working on Smart India Hackathon 2024
+- 🔭 I’m currently working on some cool projects in my hard drive
 
-- 🌱 I’m currently learning **Python and Data Structures & Algorithms(C++)**
+- 🌱 I’m currently learning **Java & Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://www.naitiktiwari.social](https://www.naitiktiwari.in)
 
